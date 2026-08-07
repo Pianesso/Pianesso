@@ -1,5 +1,5 @@
+<!-- INÍCIO DO README -->
 
-```markdown
 <div align="center">
 
 <!-- Banner Superior (Roxo Cyberpunk) -->
@@ -28,15 +28,7 @@ Initializing system...
 ✔️ Python & C++ engines active
 
 STATUS: ONLINE & EVOLVING 🚀
-
-```
-
----
-
-## 👨‍💻 Sobre Mim
-
-```javascript
-const Pianesso = {
+👨‍💻 Sobre MimJavaScriptconst Pianesso = {
   name: "Lucas Pianesso",
   role: "AI Student & Electronics Technician",
   
@@ -50,50 +42,11 @@ const Pianesso = {
   
   passion: "Unindo eletrônica, software e inteligência artificial ⚡"
 };
-
-```
-
----
-
-## ⚡ Tech Stack
-
----
-
-## 🚀 Projetos em Destaque
-
-| 🚀 Projeto | 💡 Descrição | 🛠️ Techs |
-| --- | --- | --- |
-| 🤖 **Projeto 01** | Algoritmo ou modelo em Inteligência Artificial | Python |
-| 🌐 **Projeto 02** | Aplicação web ou dashboard interativo | JavaScript, HTML, CSS |
-| ⚡ **Projeto 03** | Automação, embarcados ou lógica de baixo nível | C++ |
-
----
-
-## 🧠 Objetivos Atuais
-
-```bash
-[██████████] Especialização em Inteligência Artificial
+⚡ Tech Stack🚀 Projetos em Destaque🚀 Projeto💡 Descrição🛠️ Techs🤖 Projeto 01Algoritmo ou modelo em Inteligência ArtificialPython🌐 Projeto 02Aplicação web ou dashboard interativoJavaScript, HTML, CSS⚡ Projeto 03Automação, embarcados ou lógica de baixo nívelC++🧠 Objetivos AtuaisBash[██████████] Especialização em Inteligência Artificial
 
 [████████░░] Automações e Modelos com Python
 
 [███████░░░] Projetos unindo IA, Web e Hardware
 
 STATUS: Sempre evoluindo 🚀
-
-```
-
----
-
-## 📊 Estatísticas do GitHub
-
----
-
-## 🐍 Animação de Contribuições
-
----
-
-## 🌎 Conecte-se Comigo
-
----
-
-### 💜 *"Conectando circuitos, lógica e inteligência artificial."*
+📊 Estatísticas do GitHub🐍 Animação de Contribuições🌎 Conecte-Se Comigo💜 "Conectando circuitos, lógica e inteligência artificial."
