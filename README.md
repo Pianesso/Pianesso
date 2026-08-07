@@ -1,4 +1,3 @@
-Aqui está todo o código unificado em um único bloco, pronto para você copiar e colar diretamente no seu arquivo `README.md`:
 
 ```markdown
 <div align="center">
